@@ -9,3 +9,6 @@ Um programa simples que gera senhas aleatórias seguras, permitindo ao usuário 
   - Letras minúsculas
   - Números
   - Símbolos especiais
+
+## Tecnologias
+- Python
